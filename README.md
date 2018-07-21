@@ -5,7 +5,7 @@
 I worked on this project during the 2018 World Cup as it was an event that captivated me. As a former soccer player and someone who can appreciate an event which brings the entire world together - I set out to explore trends in world cup data. The project was done mainly using Pandas, Plotly and Seaborn in Python. Thank you to Sowmya (https://github.com/sowmya0627) for the partnership on this project. 
 
 
-## Insights
+## Brief Insights
 
 ![average age](https://user-images.githubusercontent.com/31706194/43032120-27145f58-8c64-11e8-88ad-e674aa98aa2c.png)
 
