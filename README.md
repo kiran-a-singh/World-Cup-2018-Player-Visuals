@@ -28,4 +28,4 @@ I would like to expand the analysis to include preformance in games (wins, goals
 + https://en.wikipedia.org/wiki/List_of_FIFA_country_codes
 
 ## Link to Jupyter notebook hosted on NBviewer:
-https://nbviewer.jupyter.org/github/sowmya0627/worldCup/blob/master/Jupyter%20Notebook/World%20Cup%20Viz_v5.0.ipynb
+https://nbviewer.jupyter.org/githhttps://nbviewer.jupyter.org/github/kiran-a-singh/World-Cup-Visuals/blob/master/Jupyter%20Notebook/World%20Cup%20Viz_v5.1.ipynbub/sowmya0627/worldCup/blob/master/Jupyter%20Notebook/World%20Cup%20Viz_v5.0.ipynb
