@@ -14,8 +14,8 @@ Interestingly, all the final 4 teams (England, Belgium, Croatia, and France) are
 
 ![loyalty heatmap](https://user-images.githubusercontent.com/31706194/43031750-ca10b9b6-8c5c-11e8-8844-9a3e065aa0da.png)
 
-Players tend to gravitate to the major clubs in Europe (England, France, Germany, Italy, Spain). This can be observed by the vertical bands in the heatmap. This can be explained by the fact that European leagues are the most competitive teams and there is the most money available for top players.
-If players aren't in Europe, they tend to play for their home country. This can be observed on the main Diagonal.
+Players tend to gravitate to the major clubs in Europe: England, France, Germany, Italy, Spain (observed by the vertical bands of the heatmap). This can be explained by the fact that European leagues are the most competitive teams and there is the most money available for top players.
+If players aren't in Europe, they tend to play for their home country (observed on the main diagonal of the heatmap).
 
 
 ## Next Steps
