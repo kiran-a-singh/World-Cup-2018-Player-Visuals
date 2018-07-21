@@ -9,7 +9,7 @@ I worked on this project during the 2018 World Cup as it was an event that capti
 
 ![average age](https://user-images.githubusercontent.com/31706194/43032120-27145f58-8c64-11e8-88ad-e674aa98aa2c.png)
 
-The green line corresponds to the average age of all players in the world cup. All teams' have an average age range between 25 and 29.
+The green line corresponds to the average age of all players in the world cup. All teams have an average age range between 25 and 29.
 Interestingly, all of the final 4 teams (England, Belgium, Croatia, and France) are young (below the average age). France, the winner, was the youngest team in the World Cup.
 
 ![loyalty heatmap](https://user-images.githubusercontent.com/31706194/43031750-ca10b9b6-8c5c-11e8-8844-9a3e065aa0da.png)
