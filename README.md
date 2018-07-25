@@ -7,15 +7,16 @@ I worked on this project during the 2018 World Cup as it was an event that capti
 
 ## Brief Insights
 
-![average age](https://user-images.githubusercontent.com/31706194/43217721-3463277a-8ff7-11e8-9c7d-4607b380ef8e.png)
-
-All teams have an average age range between 25 and 29. Interestingly, all the final 4 teams (England, Belgium, Croatia, and France) are young (below the average age). France, the winner, was the youngest team in the World Cup.
-
 ![loyaltyheatmap](https://user-images.githubusercontent.com/31706194/43217726-362f08e4-8ff7-11e8-822f-9643b102fe9d.png)
 
 Players tend to gravitate to the major clubs in Europe: England, France, Germany, Italy, Spain (observed by the vertical bands of the heatmap). This can be explained by the fact that European leagues are the most competitive teams and there is the most money available for top players.
 If players aren't in Europe, they tend to play for their home country (observed on the main diagonal of the heatmap).
 
+![average age](https://user-images.githubusercontent.com/31706194/43217721-3463277a-8ff7-11e8-9c7d-4607b380ef8e.png)
+
+All teams have an average age range between 25 and 29. Interestingly, all the final 4 teams (England, Belgium, Croatia, and France) are young (below the average age). France, the winner, was the youngest team in the World Cup.
+
+Other insights on player BMI and height in the attached Jupyter Notebook.
 
 ## Next Steps
 I would like to expand the analysis to include performance in games (wins, goals scored, goals saved) based on physical traits, explore specific country vs. country matchups, and see how teams do when they are the host nation, compared to their historical average.
