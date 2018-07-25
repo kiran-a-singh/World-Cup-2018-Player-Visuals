@@ -7,12 +7,12 @@ I worked on this project during the 2018 World Cup as it was an event that capti
 
 ## Brief Insights
 
-![average age](https://user-images.githubusercontent.com/31706194/43032120-27145f58-8c64-11e8-88ad-e674aa98aa2c.png)
+![average age](https://user-images.githubusercontent.com/31706194/43217721-3463277a-8ff7-11e8-9c7d-4607b380ef8e.png)
 
 The green line corresponds to the average age of all players in the World Cup. All teams have an average age range between 25 and 29.
 Interestingly, all the final 4 teams (England, Belgium, Croatia, and France) are young (below the average age). France, the winner, was the youngest team in the World Cup.
 
-![loyalty heatmap](https://user-images.githubusercontent.com/31706194/43031750-ca10b9b6-8c5c-11e8-8844-9a3e065aa0da.png)
+![loyaltyheatmap](https://user-images.githubusercontent.com/31706194/43217726-362f08e4-8ff7-11e8-822f-9643b102fe9d.png)
 
 Players tend to gravitate to the major clubs in Europe: England, France, Germany, Italy, Spain (observed by the vertical bands of the heatmap). This can be explained by the fact that European leagues are the most competitive teams and there is the most money available for top players.
 If players aren't in Europe, they tend to play for their home country (observed on the main diagonal of the heatmap).
@@ -28,4 +28,4 @@ I would like to expand the analysis to include performance in games (wins, goals
 + https://en.wikipedia.org/wiki/List_of_FIFA_country_codes
 
 ## Link to Jupyter notebook hosted on NBviewer:
-https://nbviewer.jupyter.org/github/kiran-a-singh/World-Cup-Visuals/blob/master/Jupyter%20Notebook/World%20Cup%20Viz_v5.2.ipynb
+https://nbviewer.jupyter.org/github/kiran-a-singh/World-Cup-Visuals/blob/master/World%20Cup%20Viz_v6.1.ipynb
