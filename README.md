@@ -1,4 +1,4 @@
-# World-Cup-2018-Player-Visuals
+# World Cup 2018 Player Visuals
 ***
 
 ## Summary
