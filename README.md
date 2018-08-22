@@ -7,7 +7,7 @@ I worked on this project during the 2018 World Cup as it was an event that capti
 
 ## Brief Insights
 
-![loyaltyheatmap](https://user-images.githubusercontent.com/31706194/43217726-362f08e4-8ff7-11e8-822f-9643b102fe9d.png)
+![loyaltyheatmap](https://user-images.githubusercontent.com/31706194/44489428-5923b500-a610-11e8-860a-0535178e3e58.PNG)
 
 Players tend to gravitate to the major clubs in Europe: England, France, Germany, Italy, Spain (observed by the vertical bands of the heatmap). This can be explained by the fact that European leagues are the most competitive teams and there is the most money available for top players.
 If players aren't in Europe, they tend to play for their home country (observed on the main diagonal of the heatmap).
