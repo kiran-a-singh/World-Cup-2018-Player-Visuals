@@ -16,7 +16,7 @@ If players aren't in Europe, they tend to play for their home country (observed 
 
 All teams have an average age range between 25 and 29. Interestingly, all the final 4 teams (England, Belgium, Croatia, and France) are young (below the average age). France, the winner, was the youngest team in the World Cup.
 
-Other insights on player BMI and height in the attached Jupyter Notebook.
+### Other insights on player BMI, player height, & historical finishes of countries are in the attached Jupyter Notebook.
 
 ## Next Steps
 I would like to expand the analysis to include performance in games (wins, goals scored, goals saved) based on physical traits, explore specific country vs. country matchups, and see how teams do when they are the host nation, compared to their historical average.
